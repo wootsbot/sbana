@@ -1,0 +1,8 @@
+{
+  "name": "Dashboard SABIA Analytics - MVP - v1.0.0",
+  "description": "Dashboard de análisis y patrones de uso",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
